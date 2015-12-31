@@ -8,6 +8,7 @@ module.exports = (function() {
         dependencies: [
             "jquery@>=1.8"
         ],
+        //匹配
         mapping: [
             {
                 reg: '/extend/layer.ext.js',
